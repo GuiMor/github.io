@@ -98,7 +98,7 @@ layerSwitcher.hidePanel = function() {};
 layerSwitcher.showPanel();
 
 
-map.getView().fit([30738.800445, 5583852.994022, 40247.639501, 5593226.835202], map.getSize());
+map.getView().fit([22599.616647, 5577643.321884, 47904.040790, 5592203.968179], map.getSize());
 
 var NO_POPUP = 0
 var ALL_FIELDS = 1
@@ -138,7 +138,7 @@ var featureOverlay = new ol.layer.Vector({
     updateWhileInteracting: true // optional, for instant visual feedback
 });
 
-var doHighlight = true;
+var doHighlight = false;
 var doHover = false;
 
 var highlight;
