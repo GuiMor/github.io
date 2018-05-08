@@ -5,7 +5,7 @@ var json_ChateauxViticoles_10 = {
 "features": [
 { "type": "Feature", "properties": { "id": null, "nom": "Château Richard" }, "geometry": { "type": "Point", "coordinates": [ 0.314874039977349, 44.780518186758712 ] } },
 { "type": "Feature", "properties": { "id": null, "nom": "Château Les Ganfards" }, "geometry": { "type": "Point", "coordinates": [ 0.310174918764805, 44.790200544004342 ] } },
-{ "type": "Feature", "properties": { "id": null, "nom": "Château Les Vigiers" }, "geometry": { "type": "Point", "coordinates": [ 0.290058976813537, 44.789059190697159 ] } },
+{ "type": "Feature", "properties": { "id": null, "nom": "Château Les Vigiers" }, "geometry": { "type": "Point", "coordinates": [ 0.288448915043345, 44.790749027098009 ] } },
 { "type": "Feature", "properties": { "id": null, "nom": "Château Jean Brun" }, "geometry": { "type": "Point", "coordinates": [ 0.352676437797872, 44.793861551198539 ] } },
 { "type": "Feature", "properties": { "id": null, "nom": "Château Lestévenie" }, "geometry": { "type": "Point", "coordinates": [ 0.344699828957519, 44.783299819326075 ] } },
 { "type": "Feature", "properties": { "id": null, "nom": "Domaine de la Linière" }, "geometry": { "type": "Point", "coordinates": [ 0.362433185355972, 44.767318760593369 ] } },
