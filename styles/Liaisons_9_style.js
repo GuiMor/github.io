@@ -19,15 +19,7 @@ var style_Liaisons_9 = function(feature, resolution){
         labelText = String("");
     }
     var style = [ new ol.style.Style({
-        stroke: new ol.style.Stroke({color: 'rgba(51,160,44,1.0)', lineDash: null, lineCap: 'square', lineJoin: 'bevel', width: 5}),
-        text: createTextStyle(feature, resolution, labelText, labelFont,
-                              labelFill, placement)
-    }),new ol.style.Style({
-        
-        text: createTextStyle(feature, resolution, labelText, labelFont,
-                              labelFill, placement)
-    }),new ol.style.Style({
-        
+        stroke: new ol.style.Stroke({color: 'rgba(61,255,67,1.0)', lineDash: null, lineCap: 'square', lineJoin: 'bevel', width: 4}),
         text: createTextStyle(feature, resolution, labelText, labelFont,
                               labelFill, placement)
     })];
